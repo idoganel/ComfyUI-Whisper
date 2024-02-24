@@ -96,7 +96,7 @@ class Load_Alignment_From_file:
 
 
 
-class save_Alignment_file:
+class save_Alignment_to_file:
     @classmethod
     def INPUT_TYPES(s):
         return {
